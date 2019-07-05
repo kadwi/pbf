@@ -1715,7 +1715,7 @@
                 "contents": [
                     {
                         "type": "text",
-                        "text": "☆ • WE ARE PRANKBOT TEAM • ☆",
+                        "text": "☆ • HALUCY • ☆",
                         "color": "#F7141F"
                         
                     }
@@ -1749,7 +1749,7 @@
                                 "flex": 1,
                                 "action": {
                                     "type": "uri",
-                                    "label": "🅖🅔🅣🅜🅔🅓🅘🅐",
+                                    "label": "GET MEDIA",
                                     "uri": "line://app/1623679774-k9nBDB6b?type=text&text=Media"
                                 }
                             },
@@ -1766,7 +1766,7 @@
                                 "flex": 1,
                                 "action": {
                                     "type": "uri",
-                                    "label": "🅖🅔🅣🅢🅔🅣🅣🅘🅝🅖",
+                                    "label": "GET SETTING",
                                     "uri": "line://app/1623679774-k9nBDB6b?type=text&text=Settings"
                                 }
                             },
@@ -1783,24 +1783,7 @@
                                 "flex": 1,
                                 "action": {
                                     "type": "uri",
-                                    "label": "🅐🅛🅠🅤🅡🅐🅝",
-                                    "uri": "line://app/1623679774-k9nBDB6b?type=text&text=Qur'anlist"
-                                }
-                            },
-                            {
-                                "type": "separator",
-                                "color": "#002727"
-                            },
-                            {
-                                "type": "button",
-                                "style": "secondary",
-                                "color": "#BE1700",
-                                "height": "sm",
-                                "gravity": "center",
-                                "flex": 1,
-                                "action": {
-                                    "type": "uri",
-                                    "label": "🅖🅔🅣🅢🅔🅛🅕",
+                                    "label": "GET SELF",
                                     "uri": "line://app/1623679774-k9nBDB6b?type=text&text=Myhelp"
                                 }
                             },
@@ -1817,7 +1800,7 @@
                                 "flex": 1,
                                 "action": {
                                     "type": "uri",
-                                    "label": "🅖🅔🅣🅚🅘🅒🅚🅔🅡",
+                                    "label": "GET KICKER",
                                     "uri": "line://app/1623679774-k9nBDB6b?type=text&text=Helpbots"
                                 }
                             },
@@ -1834,7 +1817,7 @@
                                 "flex": 1,
                                 "action": {
                                     "type": "uri",
-                                    "label": "🅖🅔🅣🅖🅡🅞🅤🅟",
+                                    "label": "GET GROUP",
                                     "uri": "line://app/1623679774-k9nBDB6b?type=text&text=Helpgroup"
                                 }
                             },
@@ -1851,7 +1834,7 @@
                                 "flex": 1,
                                 "action": {
                                     "type": "uri",
-                                    "label": "🅖🅔🅣🅢🅣🅐🅣🅤🅢",
+                                    "label": "GET STATUS",
                                     "uri": "line://app/1623679774-k9nBDB6b?type=text&text=Set"
                                 }
                             },
@@ -1868,7 +1851,7 @@
                                 "flex": 1,
                                 "action": {
                                     "type": "uri",
-                                    "label": "🅖🅔🅣🅥🅞🅘🅒🅔",
+                                    "label": "GET VOICE",
                                     "uri": "line://app/1623679774-k9nBDB6b?type=text&text=voice"
                                 }
                             },
@@ -1885,7 +1868,7 @@
                                 "flex": 1,
                                 "action": {
                                     "type": "uri",
-                                    "label": "🅖🅔🅣🅐🅟🅟",
+                                    "label": "GET APP",
                                     "uri": "line://app/1623679774-k9nBDB6b?type=text&text=Listapp"
                                 }
                             },
@@ -1902,7 +1885,7 @@
                                 "flex": 1,
                                 "action": {
                                     "type": "uri",
-                                    "label": "🅟🅡🅘🅒🅔🅛🅘🅢🅣",
+                                    "label": "PRICE LIST",
                                     "uri": "line://app/1623679774-k9nBDB6b?type=text&text=Pricelist"
                                 }
                             },
@@ -1919,7 +1902,7 @@
                                 "flex": 1,
                                 "action": {
                                     "type": "uri",
-                                    "label": "🅖🅐🅛🅔🅡🅨",
+                                    "label": "GALERY",
                                     "uri": "line://app/1623679774-k9nBDB6b?type=text&text=GALERI"
                                 }
                             }
@@ -2121,7 +2104,7 @@
                                 "height": "sm",
                                 "action": {
                                    "type": "uri",
-                                   "label": "🅼🆄🆂🅸🅺🅹🅾🅾🆇",
+                                   "label": "MUSIK JOOX",
                                    "uri": "line://app/1623679774-z6dOvOV9"
                                 }
                             },
@@ -2154,7 +2137,7 @@
                                 "height": "sm",
                                 "action": {
                                    "type": "uri",
-                                   "label": "🅿🅴🅽🅲🅰🆁🅸🅰🅽",
+                                   "label": "PENCARIAN",
                                    "uri": "line://app/1623679774-3vDKkKaP"
                                 }
                             },
@@ -2187,7 +2170,7 @@
                                 "height": "sm",
                                 "action": {
                                    "type": "uri",
-                                   "label": "🅻🅸🆁🅸🅺🅻🅰🅶🆄",
+                                   "label": "LIRIK LAGU",
                                    "uri": "line://app/1623679774-oYnAvAdW"
                                 }
                             },
@@ -2220,7 +2203,7 @@
                                 "height": "sm",
                                 "action": {
                                    "type": "uri",
-                                   "label": "🅴🅳🅸🆃🅵🅾🆃🅾",
+                                   "label": "EDIT FOTO",
                                    "uri": "line://app/1623679774-1pKn8ngr"
                                 }
                             },
@@ -2253,7 +2236,7 @@
                                 "height": "sm",
                                 "action": {
                                    "type": "uri",
-                                   "label": "🅺🅰🅻🅴🅽🅳🅴🆁",
+                                   "label": "KALENDER",
                                    "uri": "line://app/1623679774-YvdwxwV3"
                                 }
                             },
@@ -2286,7 +2269,7 @@
                                 "height": "sm",
                                 "action": {
                                    "type": "uri",
-                                   "label": "🅽🅾🆃🅴🅿🅰🅳",
+                                   "label": "NOTEPAD",
                                    "uri": "line://app/1623679774-pXJyQy1D"
                                 }
                             },
@@ -2320,7 +2303,7 @@
                                 "gravity": "top",
                                 "action": {
                                    "type": "uri",
-                                   "label": "🆃🆅🅾🅽🅻🅸🅽🅴",
+                                   "label": "TV ONLINE",
                                    "uri": "line://app/1623679774-WVajRjDn"
                                 }
                             }
@@ -2343,8 +2326,8 @@
                             "height": "sm",
                             "action": {
                                 "type": "uri",
-                                "label": "🅼🆈🆃🆄🅱🅴",
-                                "uri": "https://bit.ly/2xbVxlh"
+                                "label": "CHANNEL YOUTUBE",
+                                "uri": "https://www.youtube.com/c/qitingz"
                             }
                         }
                     ]
