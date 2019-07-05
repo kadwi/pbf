@@ -10,10 +10,10 @@
                     "thumbnailImageUrl": "https://cdn.dribbble.com/users/287797/screenshots/2406073/watch_me.gif",
                     "imageBackgroundColor": "#002727",
                     "title": "YOUTUBE CHANNEL",
-                    "text": "Silahkan klik subcrabe untuk berlangganan secara gratis",
+                    "text": "Silahkan klik subcribe untuk berlangganan secara gratis",
                     "defaultAction": {
                         "type": "uri",
-                        "uri": "https://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ"
+                        "uri": "https://www.youtube.com/c/qitingz"
                     },
                     "actions": [
                         {
@@ -23,8 +23,8 @@
                         },
                         {
                             "type": "uri",
-                            "label": "SUBSCRABE",
-                            "uri": "https://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ"
+                            "label": "SUBSCRIBE",
+                            "uri": "https://www.youtube.com/c/qitingz"
                         }
                     ]
                 },
@@ -68,7 +68,7 @@
                         {
                             "type": "uri",
                             "label": "REQUEST LIFF",
-                            "uri": "line://ti/p/~adiputra.95"
+                            "uri": "line://ti/p/~h6lucy"
                         }
                     ]
                 },
@@ -101,13 +101,13 @@
                     "text": "add kontak di bawah ini guys",
                     "defaultAction": {
                         "type": "uri",
-                        "uri": "line://ti/p/~adiputra.95"
+                        "uri": "line://ti/p/~h6lucy"
                     },
                     "actions": [
                         {
                             "type": "uri",
                             "label": "LINE ME",
-                            "uri": "line://ti/p/~adiputra.95"
+                            "uri": "line://ti/p/~h6lucy"
                         },
                         {
                             "type": "uri",
@@ -148,35 +148,13 @@
                     ]
                 },
                 {
-                    "thumbnailImageUrl": "https://4.bp.blogspot.com/-z8E8S4aUma4/W4FW08PDxXI/AAAAAAAAF68/CaALDedJN1EAi9U6ygS4R_1viuvkKQwbACLcBGAs/s1600/PicsArt_08-25-08.14.43.gif",
-                    "imageBackgroundColor": "#FFFFFF",
-                    "title": "SMULE_ID",
-                    "text": "Sing! Smule",
-                    "defaultAction": {
-                        "type": "uri",
-                        "uri": "line://app/1623679774-rAvzDz16"
-                    },
-                    "actions": [
-                        {
-                            "type": "uri",
-                            "label": "SMULE VOG",
-                            "uri": "line://app/1623679774-rAvzDz16"
-                        },
-                        {
-                            "type": "uri",
-                            "label": "SMULE WEB",
-                            "uri": "line://app/1609524990-GgOweZOe"
-                        }
-                    ]
-                },
-                {
                     "thumbnailImageUrl": "https://perpetualbeta.vcfa.edu/wp-content/uploads/2016/05/VCFADesign_Twitter_Instagram.gif",
                     "imageBackgroundColor": "#FFFFFF",
                     "title": "INSTAGRAM & TWITTER",
                     "text": "SOSIAL MEDIA",
                     "defaultAction": {
                         "type": "uri",
-                        "uri": "line://ti/p/~adiputra.95"
+                        "uri": "line://ti/p/~h6lucy"
                     },
                     "actions": [
                         {
@@ -220,7 +198,7 @@
                     "text": "LINE STICKER",
                     "defaultAction": {
                         "type": "uri",
-                        "uri": "line://ti/p/~adiputra.95"
+                        "uri": "line://ti/p/~h6lucy"
                     },
                     "actions": [
                         {
@@ -247,7 +225,7 @@
             "columns": [
                 {
                     "thumbnailImageUrl": "https://1.bp.blogspot.com/-0cJUYiIj9So/Wg_statUjsI/AAAAAAAAK1k/6L1sY5xJEIUfi-8hxW6KuKBSy6jiVoChQCLcBGAs/s1600/Casey_Youtube_GIF.0.gif",
-                    "title": "℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́",
+                    "title": "HALUCY",
                     "text": "REPOSITORY",
                     "actions": [
                         {
@@ -258,7 +236,7 @@
                         {
                             "type": "uri",
                             "label": "OWNER",
-                            "uri": "http://line.me/ti/p/~adiputra.95"
+                            "uri": "http://line.me/ti/p/~h6lucy"
                         }
                     ]
                 },
@@ -715,7 +693,7 @@
                                 "action": {
                                     "type": "uri",
                                     "label": "KLIK DISINI",
-                                    "uri": "line://ti/p/~adiputra.95"
+                                    "uri": "line://ti/p/~h6lucy"
                                 },
                                 "style": "primary",
                                 "color": "#10CF08"
@@ -904,7 +882,7 @@
                         "action": {
                             "type": "uri",
                             "label": "prankbots",
-                            "uri": "http://line.me/ti/p/~adiputra.95"
+                            "uri": "http://line.me/ti/p/~h6lucy"
                         },
                         "style": "primary",
                         "color": "#F7141F"
@@ -2007,7 +1985,7 @@
                                 "gravity": "center",
                                 "action": {
                                     "type": "uri",
-                                    "uri": "http://line.me/ti/p/~adiputra.95"
+                                    "uri": "http://line.me/ti/p/~h6lucy"
                                 }
                             },
                             {
@@ -2021,7 +1999,7 @@
                                 "gravity": "center",
                                 "action": {
                                     "type": "uri",
-                                    "uri": "http://line.me/ti/p/~adiputra.95"
+                                    "uri": "http://line.me/ti/p/~h6luccy"
                                 }
                             }
                         ]
@@ -2107,7 +2085,7 @@
                 "aspectMode": "cover",
                 "action": {
                     "type": "uri",
-                    "uri": "https://line.me/ti/p/~adiputra.95"
+                    "uri": "https://line.me/ti/p/~h6lucy"
                 }
             },
             "body": {
